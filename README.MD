@@ -1,6 +1,6 @@
 <h1>STONE PAPER SCISSOR GAME</h1>
 </br>
-<h2>Made by  Priyanshu Rautela </h2>
+<h2>Made by  vineet harbola  </h2>
 </br>
 <p>This project is made to improve my skill and know more about javascript</p>
 </br>
